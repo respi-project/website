@@ -50,3 +50,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+The coronavirus pandemic can push any healthcare system to its limit and can even break down the system. This is shown by the example of Italy, where one of the richest regions in Europe is overwhelmed. There, a lack of lung ventilation systems and intensive care capacity is now being divided and allocated: Doctors have to choose who needs the treatment most.
+
+The coronavirus pandemic can push any healthcare system to its limit and can even break down the system. This is shown by the example of Italy, where one of the richest regions in Europe is overwhelmed. There, a lack of lung ventilation systems and intensive care capacity is now being divided and allocated: Doctors have to choose who needs the treatment most.
+
+Federal Minister of Health Jens Spahn wrote in a letter to the clinics on March 13, 2020: ["Now check the possibility of creating additional intensive care and ventilation options in your clinics in order to be able to treat a large attack of respiratory Covid-19 patients." (german article)](https://www.tagesspiegel.de/wissen/verschieben-sie-planbare-operationen-jetzt-gesundheitsminister-spahn-schreibt-alarmbrief-an-kliniken/25644318.html)
+
+The medical technology manufacturer Drägerwerk received an order from the federal government for 10,000 lung ventilator systems.
+
+[The processing of the order will extend over the whole year, the company said on Friday in Lübeck. (german article)](https://www.apotheke-adhoc.de/nachrichten/detail/coronavirus/bund-kauft-medizinausruestung-im-wert-von-163-millionen-euro/)

@@ -50,3 +50,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Die Coronavirus-Pandemie kann jedes Gesundheitssystem an seine Grenzen bringen und sogar das System zum Erliegen bringen. Dies zeigt das Beispiel Italiens, wo eine der reichsten Regionen Europas überfordert ist. Dort wird nun ein Mangel an Lungenbeatmungssystemen und Intensivpflegekapazitäten aufgeteilt und zugeteilt: Ärzte müssen entscheiden, wer die Behandlung am dringendsten benötigt.
+
+Bundesgesundheitsminister Jens Spahn schrieb am 13. März 2020 in einem Brief an die Kliniken: ["Prüfen Sie nun die Möglichkeit, in Ihren Kliniken zusätzliche Intensiv- und Beatmungsmöglichkeiten zu schaffen, um einen großen Anfall von Covid-19 der Atemwege behandeln zu können Patienten."](https://www.tagesspiegel.de/wissen/verschieben-sie-planbare-operationen-jetzt-gesundheitsminister-spahn-schreibt-alarmbrief-an-kliniken/25644318.html)
+
+Der Medizintechnikhersteller Drägerwerk erhielt von der Bundesregierung einen Auftrag über 10.000 Lungenbeatmungssysteme.
+
+[Die Auftragsabwicklung werde sich über das ganze Jahr erstrecken, teilte das Unternehmen am Freitag in Lübeck mit.](https://www.apotheke-adhoc.de/nachrichten/detail/coronavirus/bund-kauft-medizinausruestung-im-wert-von-163-millionen-euro/)
