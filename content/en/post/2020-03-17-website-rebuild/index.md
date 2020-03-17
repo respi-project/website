@@ -8,7 +8,7 @@ tags:
 date: 2020-03-17T17:14:58.375Z
 lastmod: 2020-03-17T17:14:58.393Z
 featured: false
-draft: true
+draft: false
 image:
   file: featured.png
   preview_only: false
