@@ -1,0 +1,70 @@
+# top-most EditorConfig file
+root = true
+
+## Unix-style newlines with a newline ending every file
+# [*]
+# charset = utf-8
+# end_of_line = lf
+# insert_final_newline = true
+# trim_trailing_whitespace = true
+# max_line_length = 80
+
+## BEGIN: TOML
+[*.toml]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
+insert_final_newline = true
+max_line_length = 80
+trim_trailing_whitespace = true
+## END: TOML
+
+## BEGIN: YAML
+[*.{yml|yaml}]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
+insert_final_newline = true
+max_line_length = 80
+trim_trailing_whitespace = true
+## END: YAML
+
+## BEGIN: JSON
+[*.json]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
+insert_final_newline = true
+max_line_length = 80
+trim_trailing_whitespace = true
+## END: JSON
+
+## BEGIN: SHELL
+[*.{sh|shell|bash|zsh]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
+insert_final_newline = true
+max_line_length = 80
+trim_trailing_whitespace = true
+## END: SHELL
+
+## BEGIN: MARKDOWN
+[*.md]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
+insert_final_newline = true
+max_line_length = 80
+trim_trailing_whitespace = false
+## END: MARKDOWN
+
+## BEGIN: CUSTOM
+[layouts/shortcodes/*.html]
+insert_final_newline = false
+## END: CUSTOM
