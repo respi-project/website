@@ -57,6 +57,14 @@ collections:
           - name: "url"
             label: "Website"
             widget: "string"
+      - name: "user_groups"
+        label: "User Groups"
+        widget: "relation"
+        collection: "usergroups"
+        searchFields: ["name"]
+        valueField: "name"
+        displayFields: ["name"]
+        multiple: true
       - name: bio
         label: "Short bio (displayed in user profile at end of posts)"
         widget: "string"
@@ -168,6 +176,18 @@ collections:
       - name: "body"
         label: "Body"
         widget: "markdown"
+
+  - name: "usergroups"
+    label: "User Groups"
+    label_singular: "User Group"
+    folder: "content/en/usergroups"
+    identifier_field: "name"
+    media_folder: ""
+    public_folder: ""
+    create: true
+    fields:
+      - name: "name"
+        label: "User Group"
 
   - name: "tags"
     label: "Tags"
