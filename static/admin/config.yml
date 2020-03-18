@@ -2,7 +2,7 @@
 
 backend:
   name: github
-  repo: respi-project/website
+  repo: openmedicalearth/website
   commit_messages:
     create: "docs({{collection}}): create '{{slug}}'"
     update: "docs({{collection}}): update '{{slug}}'"
@@ -10,7 +10,7 @@ backend:
     uploadMedia: "docs(media): upload '{{path}}'"
     deleteMedia: "docs(media): delete '{{path}}'"
 
-site_url: https://project.respi.de/
+site_url: https://www.openmedical.earth/
 locale: 'en'
 publish_mode: editorial_workflow
 media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
