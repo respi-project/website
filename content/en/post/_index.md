@@ -1,14 +1,19 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+title: Rebuilding website
+authors:
+  - jensliebau
+tags:
+  - hardware
+lastmod: 2020-03-18T14:56:53.476Z
+draft: true
 view: 2
-
-# Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: ''
+  image: ''
+subtitle: be more collaborative
+date: 2020-03-18T14:56:53.459Z
+featured: true
+image:
+  preview_only: true
 ---
+This
