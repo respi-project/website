@@ -21,4 +21,4 @@ The filtermaterial you want to use might depend on the type of risk you want to 
 
 Well known HEPA Filters filters particles down to 0.3 micrometer. A study done by NASA shows if it can protect you from even smaller objects: [https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20170005166.pdf](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20170005166.pdf?fbclid=IwAR300iPbgVn_4yh_-lmZ3FE-tKcdQxWMsvX5Nk-o2YxUGamvJL4ZkjT3j7s)
 
-NASA scientists did find: They do have some capability, but it depends on travel-speed of the smaller objects
+NASA scientists did find: They do have some capability, but it depends on travel-speed of the smaller objects. For details READ the study.
