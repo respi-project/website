@@ -4,21 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Posts"
+  name = "Aktuelles"
   url = "#posts"
   weight = 10
 
 [[main]]
-  name = "About"
+  name = "Über OpenMedical"
   url = "/about"
   weight = 20
 
 [[main]]
-  name = "Open Source"
+  name = "Projekte"
   url = "/projects"
   weight = 30
 
 [[main]]
-  name = "People"
+  name = "Menschen"
   url = "/people"
   weight = 40
