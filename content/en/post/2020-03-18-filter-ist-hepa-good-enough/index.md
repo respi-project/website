@@ -11,7 +11,7 @@ lastmod: 2020-03-18T20:12:21.471Z
 featured: false
 draft: true
 image:
-  file: featured.png
+  file: epidemic-4888797_1920.jpg
   preview_only: false
 ---
 A lot of people engage in projects working on masks to protect themselves or others from COVID-19. There is lots of discussion about what kind of filtermaterial to use. 
