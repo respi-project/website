@@ -3,7 +3,7 @@ title: Rebuilding website
 authors:
   - jensliebau
 tags:
-  - hardware
+  - openmedical project
 lastmod: 2020-03-18T14:56:53.476Z
 draft: true
 view: 2
