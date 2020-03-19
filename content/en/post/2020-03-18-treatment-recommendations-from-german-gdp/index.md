@@ -11,7 +11,7 @@ tags:
 date: 2020-03-18T20:35:28.176Z
 lastmod: 2020-03-18T20:35:28.190Z
 featured: false
-draft: true
+draft: false
 image:
   file: featured.png
   preview_only: false
