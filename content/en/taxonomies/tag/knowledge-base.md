@@ -1,3 +1,3 @@
 ---
-name: knowledge base
+name: knowledge-base
 ---
