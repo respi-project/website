@@ -9,7 +9,7 @@ categories: ''
 date: 2020-03-18T20:12:21.457Z
 lastmod: 2020-03-18T20:12:21.471Z
 featured: false
-draft: true
+draft: false
 image:
   file: featured.png
   preview_only: false
