@@ -14,14 +14,10 @@ image:
   file: startup-593341_1920.jpg
   preview_only: false
 ---
-Warte noch auf ne Übersetzung:
+The Corona crisis surprised many of us in their drama.
 
+In many of us, however, it also aroused the desire to bring itself in and to support it with knowledge, ideas, skill, production-knowledge and time. We keep hearing and reading about the lack of everything in the medical field. Staff shortages on the one hand, but also equipment and protective equipment on the other. Unfortunately, structural problems can hardly be solved quickly. But does support really have to fail because of too few or too expensive devices that many countries can hardly afford in their hospitals?
 
+Sensors, motors and computer hardware are becoming cheaper than before. More and more possibilities open up. Many of us can handle it. From sewing machines to 3D printers a lot can be used. The past few days have shown that there are many good ideas and approaches for "OpenSoure Hardware" in the medical field worldwide. With this platform we want to invite everyone to participate. Not every device will be developed quickly, not every mask can be mass-produced. Some things will lead to a dead end. But still, every new idea will take us forward step by step. Only a world in which nobody dares to help has lost.
 
-Die Corona Krise hat viele von uns in ihrer Dramatik überrascht. 
-
-Sie hat in vielen von uns aber auch den Wunsch erweckt sich selbst an der einen oder anderen Stelle einzubringen und mit Wissen, Ideen, Geschick aber auch Zeit zu unterstützen. Immer wieder hören und lesen wir vom Mangel in medizinischen Bereich. Personalmangel auf der einen Seite, aber auch an Geräten und Schutzausrüstung auf der Anderen. Strukturelle Probleme sind leider kaum mal eben auf die Schnell zu lösen. Aber muss die Versorgung denn wirklich schon an zu wenigen oder teuren Geräten scheitern, die viele Länder sich eh kaum in ihren Krankenhäusern leisten können? 
-
-Sensoren, Motoren und Computerhardware werden immer günstiger und eröffnen immer mehr Möglichkeiten. Viele von uns können damit umgehen. Die vergangenen Tage zeigten, dass es weltweit viele gute Ideen und Ansätze für "OpenSoure Hardware" im Medizinbereich gibt. Wir wollen mit dieser Plattform alle einladen sich daran zu beteiligen. Nicht jedes Gerät wird schnell entwickelt sein, nicht jede Maske massenproduzierbar. Manches wird in die Sackgasse führen. Aber dennoch wird uns jede Idee einen kleinen Schritt nach vorne bringen. Verloren hat nur eine Welt, in der niemand wagt zu helfen. 
-
-Fangen wir einfach an.
+Let's get started!
