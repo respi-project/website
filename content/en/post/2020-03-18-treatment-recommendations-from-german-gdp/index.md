@@ -6,13 +6,14 @@ subtitle: >-
 authors:
   - jensliebau
 tags:
-  - knowledge base
+  - knowledge-base
+  - ventilation
 date: 2020-03-18T20:35:28.176Z
 lastmod: 2020-03-18T20:35:28.190Z
 featured: false
 draft: true
 image:
-  file: monitor-screen-turned-on-939325.jpg
+  file: featured.png
   preview_only: false
 ---
 There are official treatment recommendations from German "Deutsche Gesellschaft für Pneumologie"
