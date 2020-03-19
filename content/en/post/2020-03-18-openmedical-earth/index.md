@@ -11,8 +11,9 @@ lastmod: 2020-03-18T20:04:22.356Z
 featured: true
 draft: false
 image:
-  file: startup-593341_1920.jpg
+  file: featured.png
   preview_only: false
+  focal_point: Top
 ---
 The Corona crisis surprised many of us in their drama.
 
