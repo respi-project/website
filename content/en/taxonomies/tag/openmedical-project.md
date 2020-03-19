@@ -1,3 +1,3 @@
 ---
-name: openmedical project
+name: openmedical-project
 ---
