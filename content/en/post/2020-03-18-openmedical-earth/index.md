@@ -5,7 +5,7 @@ summary: ''
 authors:
   - jensliebau
 tags:
-  - openmedical project
+  - openmedical-project
 date: 2020-03-18T20:04:22.333Z
 lastmod: 2020-03-18T20:04:22.356Z
 featured: true
