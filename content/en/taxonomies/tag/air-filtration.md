@@ -1,3 +1,3 @@
 ---
-name: air filtration
+name: air-filtration
 ---
