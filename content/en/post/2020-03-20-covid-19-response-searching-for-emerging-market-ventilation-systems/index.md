@@ -1,6 +1,9 @@
 ---
 title: Ventilation requirements - FACTS for Makers
 subtitle: 'COVID-19 response: searching for emerging market ventilation systems'
+summary: >-
+  There is finaly some secification what a emergency ventilation system MUST
+  fulfill  This is what makers MUST pay attention to.
 authors:
   - jensliebau
 tags:
@@ -18,11 +21,7 @@ There is finaly some secification what a emergency ventilation system MUST fulfi
 
 This is what makers MUST pay attention to. Please refere to: <https://www.disabilityinnovation.com/news/frontier-tech-4-covid-action-emerging-market-ventilation-systems>
 
-
-
 From this website:
-
-
 
 There is a detailed list of requirements on the application form itself, with a quick overview noted below. The RMVS must…
 
@@ -39,8 +38,7 @@ There is a detailed list of requirements on the application form itself, with a 
 * Be compatible with standard COTS catheter mount fittings (15mm Male 22mm Female)
 * Fail SAFE, ideally generating a clear alarm on failure. Failure modes to be alarmed include (but are not limited to) pressure loss and O2 loss.
 
+**Notes form openmedical.earth**: 
 
-
-
-
-**Note form openmedical.earth**: If hande air with high oxygen percentage like 80%  you MUST take into account that oxygen is a very reactive gas. If your pipe system has some leakage it is very likely that your hardware will oxidize quickly. This might be a challenge for copperbased circuit boards!
+* If you handle air with high oxygen percentage like 80%  you MUST take into account that oxygen is a very reactive gas. If your pipe system has some leakage it is very likely that your hardware will oxidize quickly. This might be a challenge for copperbased circuit boards!
+* running a venilator for 14 days, 24 hours a day with 12 to 20 cycles/breaths per minute means: your ventilator MUST work reliable for 240.000 to 400.000 breath/cycles -> that's quite an impressive number!
