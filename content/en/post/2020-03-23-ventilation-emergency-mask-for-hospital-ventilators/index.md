@@ -14,18 +14,12 @@ image:
   file: featured.png
   preview_only: false
 ---
-There is a "ready to be printed" adapter to us a snorkelling mask as an oxygen mask.
-
-
+There is a "ready to be printed" adapter to use a snorkelling mask as an oxygen mask.
 
 {{< youtube w4Csqdxkrfw >}}
 
-
-
 * Hospitals can apply for printed parts!
 * Makers are asked to help printing more parts!
-
-
 
 For more information please visit: 
 
