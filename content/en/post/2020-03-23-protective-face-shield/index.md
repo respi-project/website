@@ -4,11 +4,13 @@ subtitle: print shields for hospitals
 authors:
   - jensliebau
 tags:
+  - tools4hospitals
+  - 3dprinting
   - hardware
 date: 2020-03-23T17:58:46.194Z
 lastmod: 2020-03-23T17:58:46.218Z
 featured: false
-draft: true
+draft: false
 image:
   file: featured.png
   preview_only: false
